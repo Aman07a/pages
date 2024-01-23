@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'pages';
 
-  currentPage = 0;
+  currentPage = 3;
   images = [
     {
       title: 'At the Beach',
